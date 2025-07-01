@@ -5,15 +5,13 @@ layout: default
 
 # 📄 Public Documents
 
-Welcome! This page hosts important documents related to our service. Feel free to bookmark or share these links.
+This page hosts important documents related to my service.
 
 ## 📚 Available Documents
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Service](terms-of-service.md)
-- [Cookie Policy](cookie-policy.md)
-- [Data Retention Policy](data-retention-policy.md)
-- [Contact & Support](contact.md)
+- [Leeked Data Policy](data-deletion-policy.md)
+- [Leeked Privacy Policy](terms-of-service.md)
+
 
 ---
 
