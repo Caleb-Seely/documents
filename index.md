@@ -3,9 +3,7 @@ title: Document Hub
 layout: default
 ---
 
-# 📄 Public Documents
-
-This page hosts important documents related to my service.
+This page hosts important documents related to my services.
 
 ## 📚 Available Documents
 
